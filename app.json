@@ -1,0 +1,8 @@
+{
+  "name": "Node.js Simple HTTP server",
+  "description": "A barebones Node.js app",
+  "repository": "https://github.com/sifue/node-js-http-server",
+  "logo": "",
+  "keywords": ["node", "static"],
+  "image": "heroku/nodejs"
+}
